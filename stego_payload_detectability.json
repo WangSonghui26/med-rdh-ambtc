@@ -1,0 +1,22 @@
+{
+  "raw": {
+    "n_images": 12,
+    "avg_field_len": 196902.5,
+    "avg_ones_frac": 0.46211178798799213,
+    "avg_chi2_balance": 1130.5923920576618,
+    "min_chi2_balance": 1001.6597549481621,
+    "max_chi2_balance": 1191.468153126911,
+    "detected_at_p05": 12,
+    "avg_order1_entropy": 1.9886295394635367
+  },
+  "whitened": {
+    "n_images": 12,
+    "avg_field_len": 196902.5,
+    "avg_ones_frac": 0.5008361494654266,
+    "avg_chi2_balance": 0.5753756795191901,
+    "min_chi2_balance": 0.12588216362842233,
+    "max_chi2_balance": 1.0232261419279045,
+    "detected_at_p05": 0,
+    "avg_order1_entropy": 1.9999945409896005
+  }
+}
