@@ -1,0 +1,3330 @@
+{
+  "Baboon": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 4453.078501097996,
+        "chi2_orig_ambtc": 4453.078501097996,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9908445393188829,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 13530,
+          "13bit": 0,
+          "14bit": 2853
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 13940,
+          "13bit": 0,
+          "14bit": 2443
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 3493,
+          "d_8_15": 2615,
+          "d_16_31": 3207,
+          "d_32_63": 3124,
+          "d_64_127": 1091,
+          "d_gt127": 0,
+          "mean_d": 28.898078344419808,
+          "std_d": 30.13212890202565
+        },
+        "d_entropy": 6.120122840027783,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.323486328125,
+        "S": 0.2509765625,
+        "R_neg": 0.2509765625,
+        "S_neg": 0.323486328125,
+        "RmS": 0.072509765625,
+        "RmS_neg": -0.072509765625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.32177734375,
+        "S": 0.264892578125,
+        "R_neg": 0.264892578125,
+        "S_neg": 0.32177734375,
+        "RmS": 0.056884765625,
+        "RmS_neg": -0.056884765625,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 814.7907419429232,
+        "dof": 106,
+        "chi2_per_dof": 7.686705112669086,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 166053
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 4453.078501097996,
+        "chi2_orig_ambtc": 4453.078501097996,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9908445393188829,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 13989,
+          "13bit": 0,
+          "14bit": 2394
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14409,
+          "13bit": 0,
+          "14bit": 1974
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 4126,
+          "d_8_15": 2850,
+          "d_16_31": 3188,
+          "d_32_63": 2887,
+          "d_64_127": 938,
+          "d_gt127": 0,
+          "mean_d": 26.6322110229466,
+          "std_d": 29.375695702632438
+        },
+        "d_entropy": 5.974924032630277,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.323486328125,
+        "S": 0.2509765625,
+        "R_neg": 0.2509765625,
+        "S_neg": 0.323486328125,
+        "RmS": 0.072509765625,
+        "RmS_neg": -0.072509765625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.32177734375,
+        "S": 0.264892578125,
+        "R_neg": 0.264892578125,
+        "S_neg": 0.32177734375,
+        "RmS": 0.056884765625,
+        "RmS_neg": -0.056884765625,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 814.7907419429232,
+        "dof": 106,
+        "chi2_per_dof": 7.686705112669086,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 174004
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 4453.078501097996,
+        "chi2_orig_ambtc": 4453.078501097996,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9908445393188829,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14103,
+          "13bit": 0,
+          "14bit": 2280
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14535,
+          "13bit": 0,
+          "14bit": 1848
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 4195,
+          "d_8_15": 3042,
+          "d_16_31": 3239,
+          "d_32_63": 2784,
+          "d_64_127": 843,
+          "d_gt127": 0,
+          "mean_d": 25.550521165709423,
+          "std_d": 28.38342701043939
+        },
+        "d_entropy": 5.928205127041501,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.323486328125,
+        "S": 0.2509765625,
+        "R_neg": 0.2509765625,
+        "S_neg": 0.323486328125,
+        "RmS": 0.072509765625,
+        "RmS_neg": -0.072509765625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.32177734375,
+        "S": 0.264892578125,
+        "R_neg": 0.264892578125,
+        "S_neg": 0.32177734375,
+        "RmS": 0.056884765625,
+        "RmS_neg": -0.056884765625,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 814.7907419429232,
+        "dof": 106,
+        "chi2_per_dof": 7.686705112669086,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 176087
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 4453.078501097996,
+        "chi2_orig_ambtc": 4453.078501097996,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9908445393188829,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 13766,
+          "13bit": 0,
+          "14bit": 2617
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14084,
+          "13bit": 0,
+          "14bit": 2299
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 3699,
+          "d_8_15": 2652,
+          "d_16_31": 3270,
+          "d_32_63": 3008,
+          "d_64_127": 1137,
+          "d_gt127": 0,
+          "mean_d": 28.870114775533924,
+          "std_d": 30.80977635646604
+        },
+        "d_entropy": 6.085385706282354,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.323486328125,
+        "S": 0.2509765625,
+        "R_neg": 0.2509765625,
+        "S_neg": 0.323486328125,
+        "RmS": 0.072509765625,
+        "RmS_neg": -0.072509765625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.32177734375,
+        "S": 0.264892578125,
+        "R_neg": 0.264892578125,
+        "S_neg": 0.32177734375,
+        "RmS": 0.056884765625,
+        "RmS_neg": -0.056884765625,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 814.7907419429232,
+        "dof": 106,
+        "chi2_per_dof": 7.686705112669086,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 168739
+    },
+    "chi2_original": {
+      "chi2_stat": 239.56625091930786,
+      "dof": 113,
+      "chi2_per_dof": 2.1200553178699812,
+      "p_value_approx": 0.9999999999486853
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 814.7907419429232,
+      "dof": 106,
+      "chi2_per_dof": 7.686705112669086,
+      "p_value_approx": 1.0
+    }
+  },
+  "Airplane": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3655.1538010539116,
+        "chi2_orig_ambtc": 3655.1538010539116,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9949611358246948,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15117,
+          "13bit": 0,
+          "14bit": 1266
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14856,
+          "13bit": 0,
+          "14bit": 1527
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 8362,
+          "d_8_15": 2163,
+          "d_16_31": 2159,
+          "d_32_63": 733,
+          "d_64_127": 1700,
+          "d_gt127": 0,
+          "mean_d": 21.481907785936365,
+          "std_d": 34.06523816540003
+        },
+        "d_entropy": 5.198712086131778,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.443115234375,
+        "S": 0.17822265625,
+        "R_neg": 0.17822265625,
+        "S_neg": 0.443115234375,
+        "RmS": 0.264892578125,
+        "RmS_neg": -0.264892578125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.416015625,
+        "S": 0.19287109375,
+        "R_neg": 0.19287109375,
+        "S_neg": 0.416015625,
+        "RmS": 0.22314453125,
+        "RmS_neg": -0.22314453125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1603.8094255701942,
+        "dof": 102,
+        "chi2_per_dof": 15.72362181931563,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 187820
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3655.1538010539116,
+        "chi2_orig_ambtc": 3655.1538010539116,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9949611358246948,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15592,
+          "13bit": 0,
+          "14bit": 791
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15518,
+          "13bit": 0,
+          "14bit": 865
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 9605,
+          "d_8_15": 2025,
+          "d_16_31": 1956,
+          "d_32_63": 710,
+          "d_64_127": 1296,
+          "d_gt127": 0,
+          "mean_d": 17.84055926115957,
+          "std_d": 31.106981227086163
+        },
+        "d_entropy": 4.882054275908629,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.443115234375,
+        "S": 0.17822265625,
+        "R_neg": 0.17822265625,
+        "S_neg": 0.443115234375,
+        "RmS": 0.264892578125,
+        "RmS_neg": -0.264892578125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.416015625,
+        "S": 0.19287109375,
+        "R_neg": 0.19287109375,
+        "S_neg": 0.416015625,
+        "RmS": 0.22314453125,
+        "RmS_neg": -0.22314453125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1603.8094255701942,
+        "dof": 102,
+        "chi2_per_dof": 15.72362181931563,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 198334
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3655.1538010539116,
+        "chi2_orig_ambtc": 3655.1538010539116,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9949611358246948,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15509,
+          "13bit": 0,
+          "14bit": 874
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15293,
+          "13bit": 0,
+          "14bit": 1090
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 9171,
+          "d_8_15": 1984,
+          "d_16_31": 2091,
+          "d_32_63": 827,
+          "d_64_127": 1436,
+          "d_gt127": 0,
+          "mean_d": 19.261590044490298,
+          "std_d": 32.17579354008537
+        },
+        "d_entropy": 5.015380651438956,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.443115234375,
+        "S": 0.17822265625,
+        "R_neg": 0.17822265625,
+        "S_neg": 0.443115234375,
+        "RmS": 0.264892578125,
+        "RmS_neg": -0.264892578125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.416015625,
+        "S": 0.19287109375,
+        "R_neg": 0.19287109375,
+        "S_neg": 0.416015625,
+        "RmS": 0.22314453125,
+        "RmS_neg": -0.22314453125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1603.8094255701942,
+        "dof": 102,
+        "chi2_per_dof": 15.72362181931563,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 194207
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3655.1538010539116,
+        "chi2_orig_ambtc": 3655.1538010539116,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9949611358246948,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15337,
+          "13bit": 0,
+          "14bit": 1046
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15130,
+          "13bit": 0,
+          "14bit": 1253
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 9329,
+          "d_8_15": 1993,
+          "d_16_31": 1911,
+          "d_32_63": 680,
+          "d_64_127": 1424,
+          "d_gt127": 0,
+          "mean_d": 18.59105431309904,
+          "std_d": 31.8358010727552
+        },
+        "d_entropy": 4.945542445572275,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.443115234375,
+        "S": 0.17822265625,
+        "R_neg": 0.17822265625,
+        "S_neg": 0.443115234375,
+        "RmS": 0.264892578125,
+        "RmS_neg": -0.264892578125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.416015625,
+        "S": 0.19287109375,
+        "R_neg": 0.19287109375,
+        "S_neg": 0.416015625,
+        "RmS": 0.22314453125,
+        "RmS_neg": -0.22314453125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1603.8094255701942,
+        "dof": 102,
+        "chi2_per_dof": 15.72362181931563,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 194538
+    },
+    "chi2_original": {
+      "chi2_stat": 1709.7979298696323,
+      "dof": 105,
+      "chi2_per_dof": 16.28378980828221,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 1603.8094255701942,
+      "dof": 102,
+      "chi2_per_dof": 15.72362181931563,
+      "p_value_approx": 1.0
+    }
+  },
+  "Peppers": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2191.3495797029054,
+        "chi2_orig_ambtc": 2191.3495797029054,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9913428236408633,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15038,
+          "13bit": 0,
+          "14bit": 1345
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15003,
+          "13bit": 0,
+          "14bit": 1380
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6664,
+          "d_8_15": 2649,
+          "d_16_31": 2228,
+          "d_32_63": 1839,
+          "d_64_127": 1658,
+          "d_gt127": 0,
+          "mean_d": 25.296581992286207,
+          "std_d": 33.86877978614397
+        },
+        "d_entropy": 5.710091969255631,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.373046875,
+        "S": 0.233154296875,
+        "R_neg": 0.233154296875,
+        "S_neg": 0.373046875,
+        "RmS": 0.139892578125,
+        "RmS_neg": -0.139892578125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.387451171875,
+        "S": 0.220703125,
+        "R_neg": 0.220703125,
+        "S_neg": 0.387451171875,
+        "RmS": 0.166748046875,
+        "RmS_neg": -0.166748046875,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1656.5093281917484,
+        "dof": 113,
+        "chi2_per_dof": 14.659374585767685,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 184383
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2191.3495797029054,
+        "chi2_orig_ambtc": 2191.3495797029054,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9913428236408633,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15626,
+          "13bit": 0,
+          "14bit": 757
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15593,
+          "13bit": 0,
+          "14bit": 790
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 8622,
+          "d_8_15": 2578,
+          "d_16_31": 1906,
+          "d_32_63": 1415,
+          "d_64_127": 1105,
+          "d_gt127": 0,
+          "mean_d": 19.331754767694868,
+          "std_d": 30.015301980083496
+        },
+        "d_entropy": 5.2122558199944535,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.373046875,
+        "S": 0.233154296875,
+        "R_neg": 0.233154296875,
+        "S_neg": 0.373046875,
+        "RmS": 0.139892578125,
+        "RmS_neg": -0.139892578125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.387451171875,
+        "S": 0.220703125,
+        "R_neg": 0.220703125,
+        "S_neg": 0.387451171875,
+        "RmS": 0.166748046875,
+        "RmS_neg": -0.166748046875,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1656.5093281917484,
+        "dof": 113,
+        "chi2_per_dof": 14.659374585767685,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 198592
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2191.3495797029054,
+        "chi2_orig_ambtc": 2191.3495797029054,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9913428236408633,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15482,
+          "13bit": 0,
+          "14bit": 901
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15348,
+          "13bit": 0,
+          "14bit": 1035
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7830,
+          "d_8_15": 2569,
+          "d_16_31": 2112,
+          "d_32_63": 1659,
+          "d_64_127": 1312,
+          "d_gt127": 0,
+          "mean_d": 21.657666968091977,
+          "std_d": 31.401987981260493
+        },
+        "d_entropy": 5.43729374518964,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.373046875,
+        "S": 0.233154296875,
+        "R_neg": 0.233154296875,
+        "S_neg": 0.373046875,
+        "RmS": 0.139892578125,
+        "RmS_neg": -0.139892578125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.387451171875,
+        "S": 0.220703125,
+        "R_neg": 0.220703125,
+        "S_neg": 0.387451171875,
+        "RmS": 0.166748046875,
+        "RmS_neg": -0.166748046875,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1656.5093281917484,
+        "dof": 113,
+        "chi2_per_dof": 14.659374585767685,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 192808
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2191.3495797029054,
+        "chi2_orig_ambtc": 2191.3495797029054,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9913428236408633,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15165,
+          "13bit": 0,
+          "14bit": 1218
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15085,
+          "13bit": 0,
+          "14bit": 1298
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6882,
+          "d_8_15": 2721,
+          "d_16_31": 2251,
+          "d_32_63": 1811,
+          "d_64_127": 1500,
+          "d_gt127": 0,
+          "mean_d": 24.031915595120342,
+          "std_d": 32.706730264673816
+        },
+        "d_entropy": 5.643395285338264,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.373046875,
+        "S": 0.233154296875,
+        "R_neg": 0.233154296875,
+        "S_neg": 0.373046875,
+        "RmS": 0.139892578125,
+        "RmS_neg": -0.139892578125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.387451171875,
+        "S": 0.220703125,
+        "R_neg": 0.220703125,
+        "S_neg": 0.387451171875,
+        "RmS": 0.166748046875,
+        "RmS_neg": -0.166748046875,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1656.5093281917484,
+        "dof": 113,
+        "chi2_per_dof": 14.659374585767685,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 186916
+    },
+    "chi2_original": {
+      "chi2_stat": 993.5136961598216,
+      "dof": 114,
+      "chi2_per_dof": 8.715032422454575,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 1656.5093281917484,
+      "dof": 113,
+      "chi2_per_dof": 14.659374585767685,
+      "p_value_approx": 1.0
+    }
+  },
+  "Elaine": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3093.6655537105153,
+        "chi2_orig_ambtc": 3093.6655537105153,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9870333418076188,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14852,
+          "13bit": 0,
+          "14bit": 1531
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14838,
+          "13bit": 0,
+          "14bit": 1545
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6060,
+          "d_8_15": 3144,
+          "d_16_31": 2588,
+          "d_32_63": 1915,
+          "d_64_127": 1145,
+          "d_gt127": 0,
+          "mean_d": 23.47603016428764,
+          "std_d": 30.834624508702557
+        },
+        "d_entropy": 5.662672677321467,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.365234375,
+        "S": 0.2275390625,
+        "R_neg": 0.2275390625,
+        "S_neg": 0.365234375,
+        "RmS": 0.1376953125,
+        "RmS_neg": -0.1376953125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.362060546875,
+        "S": 0.237060546875,
+        "R_neg": 0.237060546875,
+        "S_neg": 0.362060546875,
+        "RmS": 0.125,
+        "RmS_neg": -0.125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 943.3333421044422,
+        "dof": 107,
+        "chi2_per_dof": 8.816199458920021,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 185515
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3093.6655537105153,
+        "chi2_orig_ambtc": 3093.6655537105153,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9870333418076188,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15444,
+          "13bit": 0,
+          "14bit": 939
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15394,
+          "13bit": 0,
+          "14bit": 989
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7965,
+          "d_8_15": 3109,
+          "d_16_31": 2086,
+          "d_32_63": 1393,
+          "d_64_127": 891,
+          "d_gt127": 0,
+          "mean_d": 18.975718725718725,
+          "std_d": 28.53748142457836
+        },
+        "d_entropy": 5.241180612751734,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.365234375,
+        "S": 0.2275390625,
+        "R_neg": 0.2275390625,
+        "S_neg": 0.365234375,
+        "RmS": 0.1376953125,
+        "RmS_neg": -0.1376953125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.362060546875,
+        "S": 0.237060546875,
+        "R_neg": 0.237060546875,
+        "S_neg": 0.362060546875,
+        "RmS": 0.125,
+        "RmS_neg": -0.125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 943.3333421044422,
+        "dof": 107,
+        "chi2_per_dof": 8.816199458920021,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 198028
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3093.6655537105153,
+        "chi2_orig_ambtc": 3093.6655537105153,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9870333418076188,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15353,
+          "13bit": 0,
+          "14bit": 1030
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15329,
+          "13bit": 0,
+          "14bit": 1054
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7562,
+          "d_8_15": 3174,
+          "d_16_31": 2148,
+          "d_32_63": 1539,
+          "d_64_127": 930,
+          "d_gt127": 0,
+          "mean_d": 19.77756790203869,
+          "std_d": 28.837815084878258
+        },
+        "d_entropy": 5.336761324476802,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.365234375,
+        "S": 0.2275390625,
+        "R_neg": 0.2275390625,
+        "S_neg": 0.365234375,
+        "RmS": 0.1376953125,
+        "RmS_neg": -0.1376953125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.362060546875,
+        "S": 0.237060546875,
+        "R_neg": 0.237060546875,
+        "S_neg": 0.362060546875,
+        "RmS": 0.125,
+        "RmS_neg": -0.125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 943.3333421044422,
+        "dof": 107,
+        "chi2_per_dof": 8.816199458920021,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 195836
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3093.6655537105153,
+        "chi2_orig_ambtc": 3093.6655537105153,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9870333418076188,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15007,
+          "13bit": 0,
+          "14bit": 1376
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14927,
+          "13bit": 0,
+          "14bit": 1456
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6293,
+          "d_8_15": 3190,
+          "d_16_31": 2524,
+          "d_32_63": 1860,
+          "d_64_127": 1140,
+          "d_gt127": 0,
+          "mean_d": 23.11507962950623,
+          "std_d": 30.895928910367463
+        },
+        "d_entropy": 5.621292796555056,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.365234375,
+        "S": 0.2275390625,
+        "R_neg": 0.2275390625,
+        "S_neg": 0.365234375,
+        "RmS": 0.1376953125,
+        "RmS_neg": -0.1376953125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.362060546875,
+        "S": 0.237060546875,
+        "R_neg": 0.237060546875,
+        "S_neg": 0.362060546875,
+        "RmS": 0.125,
+        "RmS_neg": -0.125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 943.3333421044422,
+        "dof": 107,
+        "chi2_per_dof": 8.816199458920021,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 187271
+    },
+    "chi2_original": {
+      "chi2_stat": 871.5331807173595,
+      "dof": 114,
+      "chi2_per_dof": 7.6450279010294695,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 943.3333421044422,
+      "dof": 107,
+      "chi2_per_dof": 8.816199458920021,
+      "p_value_approx": 1.0
+    }
+  },
+  "Wine": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2482.687161129042,
+        "chi2_orig_ambtc": 2482.687161129042,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9935650548019413,
+        "label_corr_h": 0.9999999999999999,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15279,
+          "13bit": 0,
+          "14bit": 1104
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15531,
+          "13bit": 0,
+          "14bit": 852
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7067,
+          "d_8_15": 2412,
+          "d_16_31": 2303,
+          "d_32_63": 1982,
+          "d_64_127": 1515,
+          "d_gt127": 0,
+          "mean_d": 24.144119379540545,
+          "std_d": 32.4932901481001
+        },
+        "d_entropy": 5.627653289744959,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.37255859375,
+        "S": 0.200927734375,
+        "R_neg": 0.200927734375,
+        "S_neg": 0.37255859375,
+        "RmS": 0.171630859375,
+        "RmS_neg": -0.171630859375,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.3818359375,
+        "S": 0.2109375,
+        "R_neg": 0.2109375,
+        "S_neg": 0.3818359375,
+        "RmS": 0.1708984375,
+        "RmS_neg": -0.1708984375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1931.6817770209414,
+        "dof": 125,
+        "chi2_per_dof": 15.45345421616753,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 187425
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2482.687161129042,
+        "chi2_orig_ambtc": 2482.687161129042,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9935650548019413,
+        "label_corr_h": 0.9999999999999999,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15589,
+          "13bit": 0,
+          "14bit": 794
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15724,
+          "13bit": 0,
+          "14bit": 659
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7881,
+          "d_8_15": 2413,
+          "d_16_31": 2269,
+          "d_32_63": 1829,
+          "d_64_127": 1197,
+          "d_gt127": 0,
+          "mean_d": 21.334145872089294,
+          "std_d": 30.57469769194613
+        },
+        "d_entropy": 5.400826453346239,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.37255859375,
+        "S": 0.200927734375,
+        "R_neg": 0.200927734375,
+        "S_neg": 0.37255859375,
+        "RmS": 0.171630859375,
+        "RmS_neg": -0.171630859375,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.3818359375,
+        "S": 0.2109375,
+        "R_neg": 0.2109375,
+        "S_neg": 0.3818359375,
+        "RmS": 0.1708984375,
+        "RmS_neg": -0.1708984375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1931.6817770209414,
+        "dof": 125,
+        "chi2_per_dof": 15.45345421616753,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 194998
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2482.687161129042,
+        "chi2_orig_ambtc": 2482.687161129042,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9935650548019413,
+        "label_corr_h": 0.9999999999999999,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15587,
+          "13bit": 0,
+          "14bit": 796
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15781,
+          "13bit": 0,
+          "14bit": 602
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7219,
+          "d_8_15": 2499,
+          "d_16_31": 2418,
+          "d_32_63": 2110,
+          "d_64_127": 1341,
+          "d_gt127": 0,
+          "mean_d": 23.39430294476166,
+          "std_d": 31.465554700609047
+        },
+        "d_entropy": 5.587206878304485,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.37255859375,
+        "S": 0.200927734375,
+        "R_neg": 0.200927734375,
+        "S_neg": 0.37255859375,
+        "RmS": 0.171630859375,
+        "RmS_neg": -0.171630859375,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.3818359375,
+        "S": 0.2109375,
+        "R_neg": 0.2109375,
+        "S_neg": 0.3818359375,
+        "RmS": 0.1708984375,
+        "RmS_neg": -0.1708984375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1931.6817770209414,
+        "dof": 125,
+        "chi2_per_dof": 15.45345421616753,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 192065
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2482.687161129042,
+        "chi2_orig_ambtc": 2482.687161129042,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9935650548019413,
+        "label_corr_h": 0.9999999999999999,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15383,
+          "13bit": 0,
+          "14bit": 1000
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15648,
+          "13bit": 0,
+          "14bit": 735
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7292,
+          "d_8_15": 2435,
+          "d_16_31": 2312,
+          "d_32_63": 2000,
+          "d_64_127": 1344,
+          "d_gt127": 0,
+          "mean_d": 23.108691412598322,
+          "std_d": 31.57338926537342
+        },
+        "d_entropy": 5.5560840985700946,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.37255859375,
+        "S": 0.200927734375,
+        "R_neg": 0.200927734375,
+        "S_neg": 0.37255859375,
+        "RmS": 0.171630859375,
+        "RmS_neg": -0.171630859375,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.3818359375,
+        "S": 0.2109375,
+        "R_neg": 0.2109375,
+        "S_neg": 0.3818359375,
+        "RmS": 0.1708984375,
+        "RmS_neg": -0.1708984375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1931.6817770209414,
+        "dof": 125,
+        "chi2_per_dof": 15.45345421616753,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 190472
+    },
+    "chi2_original": {
+      "chi2_stat": 938.5419320776904,
+      "dof": 127,
+      "chi2_per_dof": 7.390093953367641,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 1931.6817770209414,
+      "dof": 125,
+      "chi2_per_dof": 15.45345421616753,
+      "p_value_approx": 1.0
+    }
+  },
+  "Girl": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3438.69514745633,
+        "chi2_orig_ambtc": 3438.69514745633,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9918846961602796,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15165,
+          "13bit": 0,
+          "14bit": 1218
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15024,
+          "13bit": 0,
+          "14bit": 1359
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 5963,
+          "d_8_15": 2752,
+          "d_16_31": 2858,
+          "d_32_63": 2528,
+          "d_64_127": 1064,
+          "d_gt127": 0,
+          "mean_d": 24.010484668644906,
+          "std_d": 29.74575564836931
+        },
+        "d_entropy": 5.7676331346370215,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.38037109375,
+        "S": 0.231689453125,
+        "R_neg": 0.231689453125,
+        "S_neg": 0.38037109375,
+        "RmS": 0.148681640625,
+        "RmS_neg": -0.148681640625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.39111328125,
+        "S": 0.22021484375,
+        "R_neg": 0.22021484375,
+        "S_neg": 0.39111328125,
+        "RmS": 0.1708984375,
+        "RmS_neg": -0.1708984375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1333.3845925836974,
+        "dof": 101,
+        "chi2_per_dof": 13.201827649343539,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 186548
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3438.69514745633,
+        "chi2_orig_ambtc": 3438.69514745633,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9918846961602796,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15647,
+          "13bit": 0,
+          "14bit": 736
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15489,
+          "13bit": 0,
+          "14bit": 894
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7103,
+          "d_8_15": 2775,
+          "d_16_31": 2845,
+          "d_32_63": 2070,
+          "d_64_127": 854,
+          "d_gt127": 0,
+          "mean_d": 20.861251358087813,
+          "std_d": 28.23084520510036
+        },
+        "d_entropy": 5.493667763117317,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.38037109375,
+        "S": 0.231689453125,
+        "R_neg": 0.231689453125,
+        "S_neg": 0.38037109375,
+        "RmS": 0.148681640625,
+        "RmS_neg": -0.148681640625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.39111328125,
+        "S": 0.22021484375,
+        "R_neg": 0.22021484375,
+        "S_neg": 0.39111328125,
+        "RmS": 0.1708984375,
+        "RmS_neg": -0.1708984375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1333.3845925836974,
+        "dof": 101,
+        "chi2_per_dof": 13.201827649343539,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 196192
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3438.69514745633,
+        "chi2_orig_ambtc": 3438.69514745633,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9918846961602796,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15539,
+          "13bit": 0,
+          "14bit": 844
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15338,
+          "13bit": 0,
+          "14bit": 1045
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6515,
+          "d_8_15": 3037,
+          "d_16_31": 2996,
+          "d_32_63": 2171,
+          "d_64_127": 820,
+          "d_gt127": 0,
+          "mean_d": 21.497844134114164,
+          "std_d": 27.864201270647516
+        },
+        "d_entropy": 5.5723125016903685,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.38037109375,
+        "S": 0.231689453125,
+        "R_neg": 0.231689453125,
+        "S_neg": 0.38037109375,
+        "RmS": 0.148681640625,
+        "RmS_neg": -0.148681640625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.39111328125,
+        "S": 0.22021484375,
+        "R_neg": 0.22021484375,
+        "S_neg": 0.39111328125,
+        "RmS": 0.1708984375,
+        "RmS_neg": -0.1708984375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1333.3845925836974,
+        "dof": 101,
+        "chi2_per_dof": 13.201827649343539,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 194147
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3438.69514745633,
+        "chi2_orig_ambtc": 3438.69514745633,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9918846961602796,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15279,
+          "13bit": 0,
+          "14bit": 1104
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15175,
+          "13bit": 0,
+          "14bit": 1208
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6082,
+          "d_8_15": 2818,
+          "d_16_31": 2925,
+          "d_32_63": 2445,
+          "d_64_127": 1009,
+          "d_gt127": 0,
+          "mean_d": 23.460828588258394,
+          "std_d": 29.356042488251575
+        },
+        "d_entropy": 5.727455022656503,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.38037109375,
+        "S": 0.231689453125,
+        "R_neg": 0.231689453125,
+        "S_neg": 0.38037109375,
+        "RmS": 0.148681640625,
+        "RmS_neg": -0.148681640625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.39111328125,
+        "S": 0.22021484375,
+        "R_neg": 0.22021484375,
+        "S_neg": 0.39111328125,
+        "RmS": 0.1708984375,
+        "RmS_neg": -0.1708984375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1333.3845925836974,
+        "dof": 101,
+        "chi2_per_dof": 13.201827649343539,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 188939
+    },
+    "chi2_original": {
+      "chi2_stat": 600.8946288265979,
+      "dof": 106,
+      "chi2_per_dof": 5.668817253081112,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 1333.3845925836974,
+      "dof": 101,
+      "chi2_per_dof": 13.201827649343539,
+      "p_value_approx": 1.0
+    }
+  },
+  "Barbara": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3728.9788553517346,
+        "chi2_orig_ambtc": 3728.9788553517346,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9835201570118571,
+        "label_corr_h": 0.9999999999999998,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14761,
+          "13bit": 0,
+          "14bit": 1622
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14697,
+          "13bit": 0,
+          "14bit": 1686
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 5671,
+          "d_8_15": 2538,
+          "d_16_31": 2505,
+          "d_32_63": 2296,
+          "d_64_127": 1751,
+          "d_gt127": 0,
+          "mean_d": 27.980353634577604,
+          "std_d": 34.039138997787916
+        },
+        "d_entropy": 5.931019307195929,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.376220703125,
+        "S": 0.22412109375,
+        "R_neg": 0.22412109375,
+        "S_neg": 0.376220703125,
+        "RmS": 0.152099609375,
+        "RmS_neg": -0.152099609375,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.374267578125,
+        "S": 0.228759765625,
+        "R_neg": 0.228759765625,
+        "S_neg": 0.374267578125,
+        "RmS": 0.1455078125,
+        "RmS_neg": -0.1455078125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1024.9806601740518,
+        "dof": 110,
+        "chi2_per_dof": 9.318006001582289,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 177199
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3728.9788553517346,
+        "chi2_orig_ambtc": 3728.9788553517346,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9835201570118571,
+        "label_corr_h": 0.9999999999999998,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15432,
+          "13bit": 0,
+          "14bit": 951
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15275,
+          "13bit": 0,
+          "14bit": 1108
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7393,
+          "d_8_15": 2722,
+          "d_16_31": 2318,
+          "d_32_63": 1806,
+          "d_64_127": 1193,
+          "d_gt127": 0,
+          "mean_d": 21.923989113530325,
+          "std_d": 30.778422486774335
+        },
+        "d_entropy": 5.485207809428241,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.376220703125,
+        "S": 0.22412109375,
+        "R_neg": 0.22412109375,
+        "S_neg": 0.376220703125,
+        "RmS": 0.152099609375,
+        "RmS_neg": -0.152099609375,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.374267578125,
+        "S": 0.228759765625,
+        "R_neg": 0.228759765625,
+        "S_neg": 0.374267578125,
+        "RmS": 0.1455078125,
+        "RmS_neg": -0.1455078125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1024.9806601740518,
+        "dof": 110,
+        "chi2_per_dof": 9.318006001582289,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 192417
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3728.9788553517346,
+        "chi2_orig_ambtc": 3728.9788553517346,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9835201570118571,
+        "label_corr_h": 0.9999999999999998,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15207,
+          "13bit": 0,
+          "14bit": 1176
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15139,
+          "13bit": 0,
+          "14bit": 1244
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6578,
+          "d_8_15": 2648,
+          "d_16_31": 2499,
+          "d_32_63": 2047,
+          "d_64_127": 1435,
+          "d_gt127": 0,
+          "mean_d": 24.660353784441376,
+          "std_d": 32.53495191978127
+        },
+        "d_entropy": 5.701808567827417,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.376220703125,
+        "S": 0.22412109375,
+        "R_neg": 0.22412109375,
+        "S_neg": 0.376220703125,
+        "RmS": 0.152099609375,
+        "RmS_neg": -0.152099609375,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.374267578125,
+        "S": 0.228759765625,
+        "R_neg": 0.228759765625,
+        "S_neg": 0.374267578125,
+        "RmS": 0.1455078125,
+        "RmS_neg": -0.1455078125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1024.9806601740518,
+        "dof": 110,
+        "chi2_per_dof": 9.318006001582289,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 186409
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3728.9788553517346,
+        "chi2_orig_ambtc": 3728.9788553517346,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9835201570118571,
+        "label_corr_h": 0.9999999999999998,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14843,
+          "13bit": 0,
+          "14bit": 1540
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14776,
+          "13bit": 0,
+          "14bit": 1607
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 5883,
+          "d_8_15": 2459,
+          "d_16_31": 2501,
+          "d_32_63": 2287,
+          "d_64_127": 1713,
+          "d_gt127": 0,
+          "mean_d": 27.339486626692718,
+          "std_d": 33.71284583543483
+        },
+        "d_entropy": 5.89926692392695,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.376220703125,
+        "S": 0.22412109375,
+        "R_neg": 0.22412109375,
+        "S_neg": 0.376220703125,
+        "RmS": 0.152099609375,
+        "RmS_neg": -0.152099609375,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.374267578125,
+        "S": 0.228759765625,
+        "R_neg": 0.228759765625,
+        "S_neg": 0.374267578125,
+        "RmS": 0.1455078125,
+        "RmS_neg": -0.1455078125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1024.9806601740518,
+        "dof": 110,
+        "chi2_per_dof": 9.318006001582289,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 178261
+    },
+    "chi2_original": {
+      "chi2_stat": 474.05677501019545,
+      "dof": 117,
+      "chi2_per_dof": 4.051767307779448,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 1024.9806601740518,
+      "dof": 110,
+      "chi2_per_dof": 9.318006001582289,
+      "p_value_approx": 1.0
+    }
+  },
+  "Lena": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2206.441981527554,
+        "chi2_orig_ambtc": 2206.441981527554,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9921200937816564,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14764,
+          "13bit": 0,
+          "14bit": 1619
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15015,
+          "13bit": 0,
+          "14bit": 1368
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6991,
+          "d_8_15": 2422,
+          "d_16_31": 2250,
+          "d_32_63": 1667,
+          "d_64_127": 1434,
+          "d_gt127": 0,
+          "mean_d": 23.367786507721483,
+          "std_d": 32.23995742867719
+        },
+        "d_entropy": 5.597841347784913,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.4150390625,
+        "S": 0.218505859375,
+        "R_neg": 0.218505859375,
+        "S_neg": 0.4150390625,
+        "RmS": 0.196533203125,
+        "RmS_neg": -0.196533203125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.408447265625,
+        "S": 0.212158203125,
+        "R_neg": 0.212158203125,
+        "S_neg": 0.408447265625,
+        "RmS": 0.1962890625,
+        "RmS_neg": -0.1962890625,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1266.9142120325866,
+        "dof": 103,
+        "chi2_per_dof": 12.3001379808989,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 185618
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2206.441981527554,
+        "chi2_orig_ambtc": 2206.441981527554,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9921200937816564,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15347,
+          "13bit": 0,
+          "14bit": 1036
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15589,
+          "13bit": 0,
+          "14bit": 794
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 8790,
+          "d_8_15": 2368,
+          "d_16_31": 1894,
+          "d_32_63": 1211,
+          "d_64_127": 1084,
+          "d_gt127": 0,
+          "mean_d": 18.481592493646968,
+          "std_d": 29.564612340645347
+        },
+        "d_entropy": 5.124408419216005,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.4150390625,
+        "S": 0.218505859375,
+        "R_neg": 0.218505859375,
+        "S_neg": 0.4150390625,
+        "RmS": 0.196533203125,
+        "RmS_neg": -0.196533203125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.408447265625,
+        "S": 0.212158203125,
+        "R_neg": 0.212158203125,
+        "S_neg": 0.408447265625,
+        "RmS": 0.1962890625,
+        "RmS_neg": -0.1962890625,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1266.9142120325866,
+        "dof": 103,
+        "chi2_per_dof": 12.3001379808989,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 198611
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2206.441981527554,
+        "chi2_orig_ambtc": 2206.441981527554,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9921200937816564,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15106,
+          "13bit": 0,
+          "14bit": 1277
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15388,
+          "13bit": 0,
+          "14bit": 995
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7771,
+          "d_8_15": 2489,
+          "d_16_31": 2106,
+          "d_32_63": 1547,
+          "d_64_127": 1193,
+          "d_gt127": 0,
+          "mean_d": 20.90156229312856,
+          "std_d": 30.796968010755432
+        },
+        "d_entropy": 5.378559500535423,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.4150390625,
+        "S": 0.218505859375,
+        "R_neg": 0.218505859375,
+        "S_neg": 0.4150390625,
+        "RmS": 0.196533203125,
+        "RmS_neg": -0.196533203125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.408447265625,
+        "S": 0.212158203125,
+        "R_neg": 0.212158203125,
+        "S_neg": 0.408447265625,
+        "RmS": 0.1962890625,
+        "RmS_neg": -0.1962890625,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1266.9142120325866,
+        "dof": 103,
+        "chi2_per_dof": 12.3001379808989,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 192613
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 2206.441981527554,
+        "chi2_orig_ambtc": 2206.441981527554,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9921200937816564,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14656,
+          "13bit": 0,
+          "14bit": 1727
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14954,
+          "13bit": 0,
+          "14bit": 1429
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6519,
+          "d_8_15": 2475,
+          "d_16_31": 2296,
+          "d_32_63": 1839,
+          "d_64_127": 1527,
+          "d_gt127": 0,
+          "mean_d": 24.737308951965066,
+          "std_d": 32.72451907110502
+        },
+        "d_entropy": 5.71534417698148,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.4150390625,
+        "S": 0.218505859375,
+        "R_neg": 0.218505859375,
+        "S_neg": 0.4150390625,
+        "RmS": 0.196533203125,
+        "RmS_neg": -0.196533203125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.408447265625,
+        "S": 0.212158203125,
+        "R_neg": 0.212158203125,
+        "S_neg": 0.408447265625,
+        "RmS": 0.1962890625,
+        "RmS_neg": -0.1962890625,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1266.9142120325866,
+        "dof": 103,
+        "chi2_per_dof": 12.3001379808989,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 182996
+    },
+    "chi2_original": {
+      "chi2_stat": 436.32825462744137,
+      "dof": 108,
+      "chi2_per_dof": 4.040076431735568,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 1266.9142120325866,
+      "dof": 103,
+      "chi2_per_dof": 12.3001379808989,
+      "p_value_approx": 1.0
+    }
+  },
+  "Goldhill": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3283.221795371054,
+        "chi2_orig_ambtc": 3283.221795371054,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9893907647809759,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14662,
+          "13bit": 0,
+          "14bit": 1721
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15392,
+          "13bit": 0,
+          "14bit": 991
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 5615,
+          "d_8_15": 2653,
+          "d_16_31": 2879,
+          "d_32_63": 2201,
+          "d_64_127": 1314,
+          "d_gt127": 0,
+          "mean_d": 25.430500613831672,
+          "std_d": 31.377933794955133
+        },
+        "d_entropy": 5.85311741718332,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.360107421875,
+        "S": 0.232666015625,
+        "R_neg": 0.232666015625,
+        "S_neg": 0.360107421875,
+        "RmS": 0.12744140625,
+        "RmS_neg": -0.12744140625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.366455078125,
+        "S": 0.244873046875,
+        "R_neg": 0.244873046875,
+        "S_neg": 0.366455078125,
+        "RmS": 0.12158203125,
+        "RmS_neg": -0.12158203125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1627.4667501113465,
+        "dof": 109,
+        "chi2_per_dof": 14.930887615700426,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 181503
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3283.221795371054,
+        "chi2_orig_ambtc": 3283.221795371054,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9893907647809759,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15302,
+          "13bit": 0,
+          "14bit": 1081
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15870,
+          "13bit": 0,
+          "14bit": 513
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7487,
+          "d_8_15": 2939,
+          "d_16_31": 2465,
+          "d_32_63": 1665,
+          "d_64_127": 746,
+          "d_gt127": 0,
+          "mean_d": 19.06195268592341,
+          "std_d": 27.176943919495578
+        },
+        "d_entropy": 5.33917005877605,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.360107421875,
+        "S": 0.232666015625,
+        "R_neg": 0.232666015625,
+        "S_neg": 0.360107421875,
+        "RmS": 0.12744140625,
+        "RmS_neg": -0.12744140625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.366455078125,
+        "S": 0.244873046875,
+        "R_neg": 0.244873046875,
+        "S_neg": 0.366455078125,
+        "RmS": 0.12158203125,
+        "RmS_neg": -0.12158203125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1627.4667501113465,
+        "dof": 109,
+        "chi2_per_dof": 14.930887615700426,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 197313
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3283.221795371054,
+        "chi2_orig_ambtc": 3283.221795371054,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9893907647809759,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15157,
+          "13bit": 0,
+          "14bit": 1226
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15679,
+          "13bit": 0,
+          "14bit": 704
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6567,
+          "d_8_15": 2984,
+          "d_16_31": 2841,
+          "d_32_63": 1916,
+          "d_64_127": 849,
+          "d_gt127": 0,
+          "mean_d": 21.199577752853468,
+          "std_d": 28.136894824870122
+        },
+        "d_entropy": 5.542864860455071,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.360107421875,
+        "S": 0.232666015625,
+        "R_neg": 0.232666015625,
+        "S_neg": 0.360107421875,
+        "RmS": 0.12744140625,
+        "RmS_neg": -0.12744140625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.366455078125,
+        "S": 0.244873046875,
+        "R_neg": 0.244873046875,
+        "S_neg": 0.366455078125,
+        "RmS": 0.12158203125,
+        "RmS_neg": -0.12158203125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1627.4667501113465,
+        "dof": 109,
+        "chi2_per_dof": 14.930887615700426,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 192028
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3283.221795371054,
+        "chi2_orig_ambtc": 3283.221795371054,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9893907647809759,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14993,
+          "13bit": 0,
+          "14bit": 1390
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15692,
+          "13bit": 0,
+          "14bit": 691
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7003,
+          "d_8_15": 2668,
+          "d_16_31": 2397,
+          "d_32_63": 1837,
+          "d_64_127": 1088,
+          "d_gt127": 0,
+          "mean_d": 21.685519909291003,
+          "std_d": 29.86718217527944
+        },
+        "d_entropy": 5.541239426171807,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.360107421875,
+        "S": 0.232666015625,
+        "R_neg": 0.232666015625,
+        "S_neg": 0.360107421875,
+        "RmS": 0.12744140625,
+        "RmS_neg": -0.12744140625,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.366455078125,
+        "S": 0.244873046875,
+        "R_neg": 0.244873046875,
+        "S_neg": 0.366455078125,
+        "RmS": 0.12158203125,
+        "RmS_neg": -0.12158203125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1627.4667501113465,
+        "dof": 109,
+        "chi2_per_dof": 14.930887615700426,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 190276
+    },
+    "chi2_original": {
+      "chi2_stat": 692.9846838792666,
+      "dof": 110,
+      "chi2_per_dof": 6.2998607625387875,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 1627.4667501113465,
+      "dof": 109,
+      "chi2_per_dof": 14.930887615700426,
+      "p_value_approx": 1.0
+    }
+  },
+  "Boat": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3191.4099683551126,
+        "chi2_orig_ambtc": 3191.4099683551126,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9947893418738292,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15173,
+          "13bit": 0,
+          "14bit": 1210
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14563,
+          "13bit": 0,
+          "14bit": 1820
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 8393,
+          "d_8_15": 1863,
+          "d_16_31": 2089,
+          "d_32_63": 1814,
+          "d_64_127": 1014,
+          "d_gt127": 0,
+          "mean_d": 19.5194094773611,
+          "std_d": 28.322345331918328
+        },
+        "d_entropy": 5.240833577024725,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.443115234375,
+        "S": 0.17236328125,
+        "R_neg": 0.17236328125,
+        "S_neg": 0.443115234375,
+        "RmS": 0.270751953125,
+        "RmS_neg": -0.270751953125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.417236328125,
+        "S": 0.182373046875,
+        "R_neg": 0.182373046875,
+        "S_neg": 0.417236328125,
+        "RmS": 0.23486328125,
+        "RmS_neg": -0.23486328125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1624.3226073909045,
+        "dof": 106,
+        "chi2_per_dof": 15.32379818293306,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 188425
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3191.4099683551126,
+        "chi2_orig_ambtc": 3191.4099683551126,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9947893418738292,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15664,
+          "13bit": 0,
+          "14bit": 719
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15353,
+          "13bit": 0,
+          "14bit": 1030
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 9783,
+          "d_8_15": 1898,
+          "d_16_31": 1909,
+          "d_32_63": 1488,
+          "d_64_127": 586,
+          "d_gt127": 0,
+          "mean_d": 15.315053626149131,
+          "std_d": 25.05010837641746
+        },
+        "d_entropy": 4.783945542167072,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.443115234375,
+        "S": 0.17236328125,
+        "R_neg": 0.17236328125,
+        "S_neg": 0.443115234375,
+        "RmS": 0.270751953125,
+        "RmS_neg": -0.270751953125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.417236328125,
+        "S": 0.182373046875,
+        "R_neg": 0.182373046875,
+        "S_neg": 0.417236328125,
+        "RmS": 0.23486328125,
+        "RmS_neg": -0.23486328125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1624.3226073909045,
+        "dof": 106,
+        "chi2_per_dof": 15.32379818293306,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 201497
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3191.4099683551126,
+        "chi2_orig_ambtc": 3191.4099683551126,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9947893418738292,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15517,
+          "13bit": 0,
+          "14bit": 866
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15115,
+          "13bit": 0,
+          "14bit": 1268
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 9195,
+          "d_8_15": 1833,
+          "d_16_31": 1993,
+          "d_32_63": 1707,
+          "d_64_127": 789,
+          "d_gt127": 0,
+          "mean_d": 17.354127730875813,
+          "std_d": 27.016609963170747
+        },
+        "d_entropy": 5.009873137877333,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.443115234375,
+        "S": 0.17236328125,
+        "R_neg": 0.17236328125,
+        "S_neg": 0.443115234375,
+        "RmS": 0.270751953125,
+        "RmS_neg": -0.270751953125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.417236328125,
+        "S": 0.182373046875,
+        "R_neg": 0.182373046875,
+        "S_neg": 0.417236328125,
+        "RmS": 0.23486328125,
+        "RmS_neg": -0.23486328125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1624.3226073909045,
+        "dof": 106,
+        "chi2_per_dof": 15.32379818293306,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 195588
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3191.4099683551126,
+        "chi2_orig_ambtc": 3191.4099683551126,
+        "corr_ambtc_stego": 0.9999999999999999,
+        "corr_orig_stego": 0.9947893418738292,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15466,
+          "13bit": 0,
+          "14bit": 917
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14844,
+          "13bit": 0,
+          "14bit": 1539
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 9263,
+          "d_8_15": 1832,
+          "d_16_31": 1972,
+          "d_32_63": 1558,
+          "d_64_127": 841,
+          "d_gt127": 0,
+          "mean_d": 17.275572222940642,
+          "std_d": 27.22390589283016
+        },
+        "d_entropy": 4.965049580033548,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.443115234375,
+        "S": 0.17236328125,
+        "R_neg": 0.17236328125,
+        "S_neg": 0.443115234375,
+        "RmS": 0.270751953125,
+        "RmS_neg": -0.270751953125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.417236328125,
+        "S": 0.182373046875,
+        "R_neg": 0.182373046875,
+        "S_neg": 0.417236328125,
+        "RmS": 0.23486328125,
+        "RmS_neg": -0.23486328125,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 1624.3226073909045,
+        "dof": 106,
+        "chi2_per_dof": 15.32379818293306,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 194914
+    },
+    "chi2_original": {
+      "chi2_stat": 724.6073360155203,
+      "dof": 114,
+      "chi2_per_dof": 6.35620470189053,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 1624.3226073909045,
+      "dof": 106,
+      "chi2_per_dof": 15.32379818293306,
+      "p_value_approx": 1.0
+    }
+  },
+  "Tiffany": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3355.10508984811,
+        "chi2_orig_ambtc": 3355.10508984811,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9940558491355985,
+        "label_corr_h": 1.0,
+        "label_corr_l": 0.9999999999999999,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 16317,
+          "13bit": 0,
+          "14bit": 66
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 16050,
+          "13bit": 0,
+          "14bit": 333
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 8712,
+          "d_8_15": 2532,
+          "d_16_31": 2075,
+          "d_32_63": 1516,
+          "d_64_127": 1482,
+          "d_gt127": 0,
+          "mean_d": 21.95434209719924,
+          "std_d": 33.34726771156569
+        },
+        "d_entropy": 5.256950191181658,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.433837890625,
+        "S": 0.187255859375,
+        "R_neg": 0.187255859375,
+        "S_neg": 0.433837890625,
+        "RmS": 0.24658203125,
+        "RmS_neg": -0.24658203125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.422607421875,
+        "S": 0.205078125,
+        "R_neg": 0.205078125,
+        "S_neg": 0.422607421875,
+        "RmS": 0.217529296875,
+        "RmS_neg": -0.217529296875,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 2048.782604926051,
+        "dof": 78,
+        "chi2_per_dof": 26.26644365289809,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 198623
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3355.10508984811,
+        "chi2_orig_ambtc": 3355.10508984811,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9940558491355985,
+        "label_corr_h": 1.0,
+        "label_corr_l": 0.9999999999999999,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 16327,
+          "13bit": 0,
+          "14bit": 56
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 16231,
+          "13bit": 0,
+          "14bit": 152
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 10381,
+          "d_8_15": 2242,
+          "d_16_31": 1596,
+          "d_32_63": 1123,
+          "d_64_127": 985,
+          "d_gt127": 0,
+          "mean_d": 16.708335885343296,
+          "std_d": 29.4951924992036
+        },
+        "d_entropy": 4.743066821159848,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.433837890625,
+        "S": 0.187255859375,
+        "R_neg": 0.187255859375,
+        "S_neg": 0.433837890625,
+        "RmS": 0.24658203125,
+        "RmS_neg": -0.24658203125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.422607421875,
+        "S": 0.205078125,
+        "R_neg": 0.205078125,
+        "S_neg": 0.422607421875,
+        "RmS": 0.217529296875,
+        "RmS_neg": -0.217529296875,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 2048.782604926051,
+        "dof": 78,
+        "chi2_per_dof": 26.26644365289809,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 207697
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3355.10508984811,
+        "chi2_orig_ambtc": 3355.10508984811,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9940558491355985,
+        "label_corr_h": 1.0,
+        "label_corr_l": 0.9999999999999999,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 16336,
+          "13bit": 0,
+          "14bit": 47
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 16203,
+          "13bit": 0,
+          "14bit": 180
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 9942,
+          "d_8_15": 2332,
+          "d_16_31": 1800,
+          "d_32_63": 1195,
+          "d_64_127": 1067,
+          "d_gt127": 0,
+          "mean_d": 17.914666993143978,
+          "std_d": 30.47928545235869
+        },
+        "d_entropy": 4.86346021288518,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.433837890625,
+        "S": 0.187255859375,
+        "R_neg": 0.187255859375,
+        "S_neg": 0.433837890625,
+        "RmS": 0.24658203125,
+        "RmS_neg": -0.24658203125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.422607421875,
+        "S": 0.205078125,
+        "R_neg": 0.205078125,
+        "S_neg": 0.422607421875,
+        "RmS": 0.217529296875,
+        "RmS_neg": -0.217529296875,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 2048.782604926051,
+        "dof": 78,
+        "chi2_per_dof": 26.26644365289809,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 205688
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 3355.10508984811,
+        "chi2_orig_ambtc": 3355.10508984811,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9940558491355985,
+        "label_corr_h": 1.0,
+        "label_corr_l": 0.9999999999999999,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 16317,
+          "13bit": 0,
+          "14bit": 66
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 16042,
+          "13bit": 0,
+          "14bit": 341
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 8871,
+          "d_8_15": 2542,
+          "d_16_31": 2000,
+          "d_32_63": 1498,
+          "d_64_127": 1406,
+          "d_gt127": 0,
+          "mean_d": 21.312741312741313,
+          "std_d": 32.8547451059176
+        },
+        "d_entropy": 5.2122400577334895,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.433837890625,
+        "S": 0.187255859375,
+        "R_neg": 0.187255859375,
+        "S_neg": 0.433837890625,
+        "RmS": 0.24658203125,
+        "RmS_neg": -0.24658203125,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.422607421875,
+        "S": 0.205078125,
+        "R_neg": 0.205078125,
+        "S_neg": 0.422607421875,
+        "RmS": 0.217529296875,
+        "RmS_neg": -0.217529296875,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 2048.782604926051,
+        "dof": 78,
+        "chi2_per_dof": 26.26644365289809,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 199836
+    },
+    "chi2_original": {
+      "chi2_stat": 973.6972484047336,
+      "dof": 78,
+      "chi2_per_dof": 12.483298056470943,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 2048.782604926051,
+      "dof": 78,
+      "chi2_per_dof": 26.26644365289809,
+      "p_value_approx": 1.0
+    }
+  },
+  "Zelda": {
+    "jnc": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 1253.9684474851388,
+        "chi2_orig_ambtc": 1253.9684474851388,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9957964733786123,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14782,
+          "13bit": 0,
+          "14bit": 1601
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14943,
+          "13bit": 0,
+          "14bit": 1440
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6043,
+          "d_8_15": 3017,
+          "d_16_31": 2895,
+          "d_32_63": 1953,
+          "d_64_127": 874,
+          "d_gt127": 0,
+          "mean_d": 22.045122446218375,
+          "std_d": 28.31682250840584
+        },
+        "d_entropy": 5.62417111743951,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.360107421875,
+        "S": 0.231689453125,
+        "R_neg": 0.231689453125,
+        "S_neg": 0.360107421875,
+        "RmS": 0.12841796875,
+        "RmS_neg": -0.12841796875,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.3759765625,
+        "S": 0.2275390625,
+        "R_neg": 0.2275390625,
+        "S_neg": 0.3759765625,
+        "RmS": 0.1484375,
+        "RmS_neg": -0.1484375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 729.7005004869509,
+        "dof": 93,
+        "chi2_per_dof": 7.846241940719902,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 187489
+    },
+    "med": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 1253.9684474851388,
+        "chi2_orig_ambtc": 1253.9684474851388,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9957964733786123,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15575,
+          "13bit": 0,
+          "14bit": 808
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15658,
+          "13bit": 0,
+          "14bit": 725
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 9241,
+          "d_8_15": 2599,
+          "d_16_31": 1999,
+          "d_32_63": 1208,
+          "d_64_127": 528,
+          "d_gt127": 0,
+          "mean_d": 15.17059390048154,
+          "std_d": 24.44829540320557
+        },
+        "d_entropy": 4.904943077687202,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.360107421875,
+        "S": 0.231689453125,
+        "R_neg": 0.231689453125,
+        "S_neg": 0.360107421875,
+        "RmS": 0.12841796875,
+        "RmS_neg": -0.12841796875,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.3759765625,
+        "S": 0.2275390625,
+        "R_neg": 0.2275390625,
+        "S_neg": 0.3759765625,
+        "RmS": 0.1484375,
+        "RmS_neg": -0.1484375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 729.7005004869509,
+        "dof": 93,
+        "chi2_per_dof": 7.846241940719902,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 205147
+    },
+    "avg": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 1253.9684474851388,
+        "chi2_orig_ambtc": 1253.9684474851388,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9957964733786123,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15291,
+          "13bit": 0,
+          "14bit": 1092
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15418,
+          "13bit": 0,
+          "14bit": 965
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 7583,
+          "d_8_15": 3147,
+          "d_16_31": 2448,
+          "d_32_63": 1513,
+          "d_64_127": 600,
+          "d_gt127": 0,
+          "mean_d": 17.923745994375775,
+          "std_d": 25.659737907635602
+        },
+        "d_entropy": 5.240556756980368,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.360107421875,
+        "S": 0.231689453125,
+        "R_neg": 0.231689453125,
+        "S_neg": 0.360107421875,
+        "RmS": 0.12841796875,
+        "RmS_neg": -0.12841796875,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.3759765625,
+        "S": 0.2275390625,
+        "R_neg": 0.2275390625,
+        "S_neg": 0.3759765625,
+        "RmS": 0.1484375,
+        "RmS_neg": -0.1484375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 729.7005004869509,
+        "dof": 93,
+        "chi2_per_dof": 7.846241940719902,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 199096
+    },
+    "left": {
+      "histogram": {
+        "chi2_ambtc_stego": 0.0,
+        "chi2_orig_stego": 1253.9684474851388,
+        "chi2_orig_ambtc": 1253.9684474851388,
+        "corr_ambtc_stego": 1.0,
+        "corr_orig_stego": 0.9957964733786123,
+        "label_corr_h": 1.0,
+        "label_corr_l": 1.0,
+        "stego_equals_ambtc": true
+      },
+      "bitstream": {
+        "h_codeword_dist": {
+          "8bit": 1,
+          "12bit": 14923,
+          "13bit": 0,
+          "14bit": 1460
+        },
+        "l_codeword_dist": {
+          "8bit": 1,
+          "12bit": 15016,
+          "13bit": 0,
+          "14bit": 1367
+        },
+        "h_embed_rate": 0.99993896484375,
+        "l_embed_rate": 0.99993896484375,
+        "d_distribution": {
+          "d_le7": 6217,
+          "d_8_15": 3046,
+          "d_16_31": 2987,
+          "d_32_63": 1881,
+          "d_64_127": 792,
+          "d_gt127": 0,
+          "mean_d": 21.30148093546874,
+          "std_d": 27.810598338917373
+        },
+        "d_entropy": 5.559060152883493,
+        "total_labels": 16384
+      },
+      "rs_high": {
+        "R": 0.360107421875,
+        "S": 0.231689453125,
+        "R_neg": 0.231689453125,
+        "S_neg": 0.360107421875,
+        "RmS": 0.12841796875,
+        "RmS_neg": -0.12841796875,
+        "total_groups": 4096
+      },
+      "rs_low": {
+        "R": 0.3759765625,
+        "S": 0.2275390625,
+        "R_neg": 0.2275390625,
+        "S_neg": 0.3759765625,
+        "RmS": 0.1484375,
+        "RmS_neg": -0.1484375,
+        "total_groups": 4096
+      },
+      "chi2_steg": {
+        "chi2_stat": 729.7005004869509,
+        "dof": 93,
+        "chi2_per_dof": 7.846241940719902,
+        "p_value_approx": 1.0
+      },
+      "total_embedded": 189899
+    },
+    "chi2_original": {
+      "chi2_stat": 266.340463003262,
+      "dof": 98,
+      "chi2_per_dof": 2.7177598265638983,
+      "p_value_approx": 1.0
+    },
+    "chi2_ambtc_baseline": {
+      "chi2_stat": 729.7005004869509,
+      "dof": 93,
+      "chi2_per_dof": 7.846241940719902,
+      "p_value_approx": 1.0
+    }
+  },
+  "_averages": {
+    "jnc": {
+      "avg_chi2": 0.0,
+      "avg_corr": 1.0,
+      "avg_rs_high_abs": 0.17142740885416666,
+      "avg_rs_low_abs": 0.16481526692708334,
+      "avg_embedded": 184716.75,
+      "avg_d_entropy": 5.632568246244058,
+      "avg_d_mean": 23.967059759335413
+    },
+    "med": {
+      "avg_chi2": 0.0,
+      "avg_corr": 1.0,
+      "avg_rs_high_abs": 0.17142740885416666,
+      "avg_rs_low_abs": 0.16481526692708334,
+      "avg_embedded": 196902.5,
+      "avg_d_entropy": 5.215470890515256,
+      "avg_d_mean": 19.30309655939763
+    },
+    "avg": {
+      "avg_chi2": 0.0,
+      "avg_corr": 1.0,
+      "avg_rs_high_abs": 0.17142740885416666,
+      "avg_rs_low_abs": 0.16481526692708334,
+      "avg_embedded": 193047.66666666666,
+      "avg_d_entropy": 5.3845236053918795,
+      "avg_d_mean": 20.92446064233543
+    },
+    "left": {
+      "avg_chi2": 0.0,
+      "avg_corr": 1.0,
+      "avg_rs_high_abs": 0.17142740885416666,
+      "avg_rs_low_abs": 0.16481526692708334,
+      "avg_embedded": 187754.75,
+      "avg_d_entropy": 5.5392796393921095,
+      "avg_d_mean": 22.90248285610131
+    }
+  },
+  "_chi2_original_avg": 6.98098197858868,
+  "_chi2_ambtc_avg": 13.460558184743013
+}
