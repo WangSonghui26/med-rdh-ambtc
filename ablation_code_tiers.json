@@ -1,0 +1,35 @@
+{
+  "six_tier": {
+    "Baboon": 174004,
+    "Airplane": 198334,
+    "Peppers": 198592,
+    "Elaine": 198028,
+    "Wine": 194998,
+    "Girl": 196192,
+    "Barbara": 192417,
+    "Lena": 198611,
+    "Goldhill": 197313,
+    "Boat": 201497,
+    "Tiffany": 207697,
+    "Zelda": 205147
+  },
+  "four_tier": {
+    "Baboon": 163124,
+    "Airplane": 194538,
+    "Peppers": 193114,
+    "Elaine": 192444,
+    "Wine": 188038,
+    "Girl": 187602,
+    "Barbara": 185203,
+    "Lena": 193961,
+    "Goldhill": 190463,
+    "Boat": 195325,
+    "Tiffany": 203533,
+    "Zelda": 200265
+  },
+  "avg_six": 196902.5,
+  "avg_four": 190634.16666666666,
+  "gain_pct": 3.2881478923417946,
+  "all_reversible": true,
+  "six_matches_groundtruth": true
+}
